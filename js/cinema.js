@@ -17,7 +17,7 @@ if (month < 10) {
 var year = date.getFullYear();
 date = day + "." + month + "." + year;
 $("#heading").html(
-  "<br>Finnkino-elokuvateattereiden tarjonta<br>" + date + "<br>"
+  "<br>Finnkino-elokuvateattereiden tarjonta<br>" + date + "<br><br>"
 );
 
 // When user has already used the search field and wants to use the drop-down menu, the search field is emptied to avoid confusion
