@@ -20,10 +20,10 @@ Project 3 for *Dynamic Web Applications with JavaScript* course (Laurea UAS 5 ec
  **front**: date, an image of the movie poster, movie title, starting time, and auditorium details  
  **back**: age rating, content descriptors, language, subtitle languages, premier date, and duration  
  :eyes: Age rating and content descriptor images are enlargened when user hovers mouse over them  
- :bookmark: Tooltips are attached to age rating and content descriptor images  
  :white_flag: In case there are no shows on the current date, user is informed by an alert box  
  :heavy_plus_sign: Clicking on the call-to-action *Osta lippu* opens a link to the movie's synopsis page on Finnkino in a new tab  
- :top: "Scroll to top" button is smoothly faded in (1000 ms) and becomes clickable when the user scrolls down 20px from the top of the document. Button is faded out (500 ms) on the reverse action.
+ :top: "Scroll to top" button is smoothly faded in (1000 ms) and becomes clickable when the user scrolls down 20px from the top of the document. Button is faded out (500 ms) on the reverse action.  
+ :bookmark: Tooltips are attached to age ratings, content descriptors, CTA link, and scroll button  
 
 ## How to Run
 This application is published in Netlify: https://gleaming-lokum-242fa7.netlify.app/
